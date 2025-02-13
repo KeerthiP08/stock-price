@@ -1,4 +1,4 @@
-**STOCK PRICE PREDICTION USING MACHINE LEARNING**    
+**STOCK PRICE PREDICTION USING DEEP LEARNING**    
 This repository contains code for predicting stock prices using machine learning techniques, specifically LSTM (Long Short-Term Memory) models. The steps involved in the code simulation are outlined below:
 
 **Steps Involved**  
